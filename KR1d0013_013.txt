@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮集說
-#+DATE: 2015-09-23 09:37:29
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:07:48.214276
+#+PROPERTY: ID KR1d0013
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1d0013_WYG_013-1a>¶
 欽定四庫全書¶
 　周禮集説卷十¶
@@ -1160,4 +1162,3 @@
 　¶
 　¶
 　周禮集説卷十¶
-

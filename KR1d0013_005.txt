@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮集說
-#+DATE: 2015-09-23 09:37:29
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:07:47.929844
+#+PROPERTY: ID KR1d0013
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1d0013_WYG_005-1a>¶
 欽定四庫全書¶
 　周禮集説卷三¶
@@ -1946,4 +1948,3 @@
 　¶
 　¶
 　周禮集說卷三¶
-
